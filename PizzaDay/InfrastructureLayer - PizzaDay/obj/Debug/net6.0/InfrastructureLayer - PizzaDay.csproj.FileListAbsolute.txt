@@ -1,0 +1,17 @@
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\bin\Debug\net6.0\InfrastructureLayer - PizzaDay.deps.json
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\bin\Debug\net6.0\InfrastructureLayer - PizzaDay.runtimeconfig.json
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\bin\Debug\net6.0\InfrastructureLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\bin\Debug\net6.0\InfrastructureLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\bin\Debug\net6.0\AplicationDomainLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\bin\Debug\net6.0\AplicationDomainLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.AssemblyInfo.cs
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.csproj.CopyComplete
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\refint\InfrastructureLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\InfrastructureLayer - PizzaDay.genruntimeconfig.cache
+C:\Users\roddy\source\repos\PizzaDay\InfrastructureLayer - PizzaDay\obj\Debug\net6.0\ref\InfrastructureLayer - PizzaDay.dll

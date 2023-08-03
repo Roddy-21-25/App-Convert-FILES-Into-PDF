@@ -1,0 +1,12 @@
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\bin\Debug\net6.0\AplicationDomainLayer - PizzaDay.deps.json
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\bin\Debug\net6.0\AplicationDomainLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\bin\Debug\net6.0\AplicationDomainLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.AssemblyInfo.cs
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\refint\AplicationDomainLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\AplicationDomainLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\AplicationDomainLayer - PizzaDay\obj\Debug\net6.0\ref\AplicationDomainLayer - PizzaDay.dll

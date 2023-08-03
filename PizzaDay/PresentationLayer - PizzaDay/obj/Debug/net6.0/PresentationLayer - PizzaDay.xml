@@ -1,0 +1,118 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PresentationLayer - PizzaDay</name>
+    </assembly>
+    <members>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.#ctor(System.Reflection.Assembly)">
+            <summary>
+            Initializes a new instance of the <see cref="T:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1"/> class.
+            </summary>
+            <param name="assembly">The assembly to scan for for classes implementing <typeparamref name="T"/>.</param>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.#ctor(System.Collections.Generic.IEnumerable{System.Type})">
+            <summary>
+            Initializes a new instance of the <see cref="T:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1"/> class.
+            </summary>
+            <param name="controllers">
+            The controllers to scan for a <see cref="T:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrderAttribute"/> to determine the sortorder.
+            </param>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.GetFromAssembly``1(System.Reflection.Assembly)">
+            <summary>
+            Returns all <typeparamref name="TController"/>'s from the given assembly.
+            </summary>
+            <typeparam name="TController">The type classes must implement to be regarded a controller.</typeparam>
+            <param name="assembly">The assembly to scan for given <typeparamref name="TController"/>s.</param>
+            <returns>Returns all types implementing <typeparamref name="TController"/>.</returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.ResolveControllerName(System.String)">
+            <summary>
+            Determines the 'friendly' name of the controller by stripping the (by convention) "Controller" suffix
+            from the name. If there's a built-in way to do this in .Net then I'd love to hear about it!
+            </summary>
+            <param name="name">The name of the controller.</param>
+            <returns>The friendly name of the controller.</returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.Order(System.String)">
+            <summary>
+            Returns the unsigned integer sort order value.  
+            </summary>
+            <param name="controller">The controller name.</param>
+            <returns>The unsigned integer sort order value.</returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.OrderKey(System.String)">
+            <summary>
+            Returns an order key based on a the SwaggerControllerOrderAttribute for use with OrderActionsBy.
+            </summary>
+            <param name="controller">The controller name.</param>
+            <returns>A zero padded 32-bit unsigned integer.</returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.ControllerOrder.SwaggerControllerOrder`1.SortKey(System.String)">
+            <summary>
+            Returns a sort key based on a the SwaggerControllerOrderAttribute for use with OrderActionsBy.
+            </summary>
+            <param name="controller">The controller name.</param>
+            <returns>A zero padded 32-bit unsigned integer combined with the controller's name.</returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.AddFullPizzaPrescripcion.PostNewPrescription(AplicationDomainLayer___PizzaDay.DTOs.PrescriptionPizzaDTO)">
+            <summary>
+            ADD A FULL PRESCRIPTION OF A PIZZA!!!
+            </summary>
+            <param name="prescriptionPizzaDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.LoginController.SignUp(AplicationDomainLayer___PizzaDay.DTOs.ChefDTO)">
+            <summary>
+            Get the token using the Username and the Password That you create in the SignUp Method, for to login.
+            </summary>
+            <param name="SignUpDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.PizzaDayController.GetAll(AplicationDomainLayer___PizzaDay.PaginationEntity.PaginationValues)">
+            <summary>
+            Get all the Pizzas information
+            </summary>
+            <param name="values"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.PizzaDayController.GetById(System.Int32)">
+            <summary>
+            Gell the information of a pizza by the id of it.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomainLayer___PizzaDay.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.PizzaDayController.Insert(AplicationDomainLayer___PizzaDay.DTOs.PizzaDTO)">
+            <summary>
+            Add a Pizza Prescription.
+            </summary>
+            <param name="pizzaDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.PizzaDayController.Update(System.Int32,AplicationDomainLayer___PizzaDay.DTOs.PizzaDTO)">
+            <summary>
+            Update a pizza.
+            </summary>
+            <param name="id"></param>
+            <param name="pizzaDTO"></param>
+            <returns></returns>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.PizzaDayController.Delete(System.Int32)">
+            <summary>
+            Delete a Pizza.
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+            <exception cref="T:AplicationDomainLayer___PizzaDay.Exceptions.GlobalBusinessExceptions"></exception>
+        </member>
+        <member name="M:PresentationLayer___PizzaDay.Controllers.SignUpController.SignUp(AplicationDomainLayer___PizzaDay.DTOs.ChefDTO)">
+            <summary>
+            Complete the box for to create a Chef User for to Login in the Login method.
+            </summary>
+            <param name="chefDTO"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

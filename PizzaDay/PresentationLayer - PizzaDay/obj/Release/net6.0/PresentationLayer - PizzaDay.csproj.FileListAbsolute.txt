@@ -1,0 +1,83 @@
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\appsettings.Development.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\appsettings.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\PresentationLayer - PizzaDay.exe
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\PresentationLayer - PizzaDay.deps.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\PresentationLayer - PizzaDay.runtimeconfig.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\PresentationLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\PresentationLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\PresentationLayer - PizzaDay.xml
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\AutoMapper.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Humanizer.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.Identity.Client.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.OpenApi.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Drawing.Common.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Runtime.Caching.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Security.Permissions.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\System.Windows.Extensions.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\AplicationDomainLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\InfrastructureLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\AplicationDomainLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\bin\Release\net6.0\InfrastructureLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.csproj.AssemblyReference.cache
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.AssemblyInfoInputs.cache
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.AssemblyInfo.cs
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.csproj.CoreCompileInputs.cache
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets\msbuild.PresentationLayer - PizzaDay.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets\msbuild.build.PresentationLayer - PizzaDay.props
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets\msbuild.buildMultiTargeting.PresentationLayer - PizzaDay.props
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets\msbuild.buildTransitive.PresentationLayer - PizzaDay.props
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets.pack.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets.build.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\staticwebassets.development.json
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\scopedcss\bundle\PresentationLayer - PizzaDay.styles.css
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.csproj.CopyComplete
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\refint\PresentationLayer - PizzaDay.dll
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.xml
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.pdb
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\PresentationLayer - PizzaDay.genruntimeconfig.cache
+C:\Users\roddy\source\repos\PizzaDay\PresentationLayer - PizzaDay\obj\Release\net6.0\ref\PresentationLayer - PizzaDay.dll
